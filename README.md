@@ -3,7 +3,7 @@ This script bruteforces 4 digit pin codes and clicks enter/textfields
 
 ##### How to use
 1. pip install requirements.txt
-2. Set cordinat 1 to where your input field and cordinat 2 to where your enter button is
+2. In codeCrack.py set cordinat 1 to where your input field and cordinat 2 to where your enter button is
 3. Launch codeCrack.py
 
 ##### Generate codes to crack
